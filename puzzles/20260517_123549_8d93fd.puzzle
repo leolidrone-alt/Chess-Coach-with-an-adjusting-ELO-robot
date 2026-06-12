@@ -1,0 +1,7 @@
+{
+  "fen": "2r3k1/pp4p1/7p/1BN5/8/r1pR4/P1P2PPP/2K4R w - - 1 27",
+  "human_move": "c5b7",
+  "best_move": "c5e4",
+  "cp_loss": 325,
+  "turn": "white"
+}
